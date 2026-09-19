@@ -28,32 +28,13 @@
 
 ## About
 
-<table width="100%">
-  <tr>
-    <th>Field</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td><strong>Name</strong></td>
-    <td>Jaydatt Khodave</td>
-  </tr>
-  <tr>
-    <td><strong>Username</strong></td>
-    <td><code>iamjaydatt2006</code></td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Software Engineering &amp; Web Development</td>
-  </tr>
-  <tr>
-    <td><strong>Currently</strong></td>
-    <td>Learning • Building • Experimenting</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Maharashtra, India</td>
-  </tr>
-</table>
+| Field | Details |
+|---|---|
+| **Name** | Jaydatt Khodave |
+| **Username** | `iamjaydatt2006` |
+| **Focus** | Software Engineering & Web Development |
+| **Currently** | Learning • Building • Experimenting |
+| **Location** | Maharashtra, India |
 
 I enjoy turning ideas into useful, maintainable and production-oriented software.
 
