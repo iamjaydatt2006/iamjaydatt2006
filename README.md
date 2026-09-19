@@ -28,13 +28,13 @@
 
 ## About
 
-```text
-Name        Jaydatt Khodave
-Username    iamjaydatt2006
-Focus       Software Engineering & Web Development
-Currently   Learning • Building • Experimenting
-Location    Maharashtra, India
-```
+| Field | Details |
+|---|---|
+| **Name** | Jaydatt Khodave |
+| **Username** | `iamjaydatt2006` |
+| **Focus** | Software Engineering & Web Development |
+| **Currently** | Learning • Building • Experimenting |
+| **Location** | Maharashtra, India |
 
 I enjoy turning ideas into useful, maintainable and production-oriented software.
 
@@ -110,14 +110,12 @@ A modern digital platform for a food / restaurant business.
 
 ## What I'm Building
 
-```text
-▸ Full-stack web applications
-▸ Backend APIs & services
-▸ Developer tools
-▸ Automation systems
-▸ Cloud-based applications
-▸ Open-source projects
-```
+- Full-stack web applications
+- Backend APIs & services
+- Developer tools
+- Automation systems
+- Cloud-based applications
+- Open-source projects
 
 ---
 
