@@ -100,31 +100,10 @@ A modern digital platform for a food / restaurant business.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamjaydatt2006&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaydatt2006&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjaydatt2006&theme=transparent&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjaydatt2006&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamjaydatt2006&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
 </p>
 
 ---
