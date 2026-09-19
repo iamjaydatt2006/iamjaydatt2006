@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Engineering Student · Developer · Builder</strong>
+  <strong>Computer Science and Engineering - Student · Developer · Builder</strong>
 </p>
 
 <p align="center">
